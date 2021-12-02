@@ -252,4 +252,9 @@
   .menu-spacing {
     display: none;
   }
+  
+  .intro-text-content h2,
+  .main-content h2 {
+    font-size: 2.5rem;
+  }
 }
